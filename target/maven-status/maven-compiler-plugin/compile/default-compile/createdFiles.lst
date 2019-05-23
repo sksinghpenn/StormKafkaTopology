@@ -1,0 +1,3 @@
+com/lifoetech/storm/masteringApacheStorm/stormKafkaIntegration/KafkaTopology.class
+com/lifoetech/storm/masteringApacheStorm/stormKafkaIntegration/SentenceBolt.class
+com/lifoetech/storm/masteringApacheStorm/stormKafkaIntegration/WordBolt.class
